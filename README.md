@@ -1,4 +1,4 @@
-# Tesi-SLR
+# Quantum Machine Learning vs Machine Learning Tradizionale: Una Revisione Sistematica della Letteratura
 Il Quantum Machine Learning (QML) è un campo emergente che combina principi del Machine Learning (ML) con quelli della meccanica quantistica. La sua promessa di sfruttare le peculiarità dei computer quantistici per risolvere complessi compiti di apprendimento ha attirato l'attenzione della comunità scientifica. 
 
 Questo studio presenta una revisione sistematica della letteratura per identificare le principali differenze nella pipeline del QML rispetto al ML tradizionale. 
